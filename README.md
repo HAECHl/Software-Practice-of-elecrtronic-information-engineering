@@ -1,2 +1,5 @@
 # Software-Practice-of-elecrtronic-information-engineering
-group 17
+# For group 17
+
+It's convinient and efficient to edit documents together here.
+
